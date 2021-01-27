@@ -29,3 +29,4 @@ public class Collection_Remove_Item {
 	System.out.println(myList);
 	}
 }
+#Trail 1st commit 
